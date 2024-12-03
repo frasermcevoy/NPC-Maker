@@ -134,6 +134,9 @@ color: var(--dark-red);
   .saveNPC {
     background-color: rgb(55, 125, 77);
   }
+  .saveNPC:hover {
+    background-color: rgb(31, 71, 44);
+  }
   .randomize {
     background-color: rgb(91, 91, 203);
   }
